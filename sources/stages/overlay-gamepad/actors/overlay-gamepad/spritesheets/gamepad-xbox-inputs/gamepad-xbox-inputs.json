@@ -1,0 +1,353 @@
+{ "frames": [
+   {
+    "filename": "a-idle#@gamepad-xbox-inputs.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 160, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 128 },
+    "sourceSize": { "w": 160, "h": 128 },
+    "duration": 100
+   },
+   {
+    "filename": "a-activated#@gamepad-xbox-inputs.aseprite",
+    "frame": { "x": 160, "y": 0, "w": 160, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 128 },
+    "sourceSize": { "w": 160, "h": 128 },
+    "duration": 100
+   },
+   {
+    "filename": "b-idle#@gamepad-xbox-inputs.aseprite",
+    "frame": { "x": 320, "y": 0, "w": 160, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 128 },
+    "sourceSize": { "w": 160, "h": 128 },
+    "duration": 100
+   },
+   {
+    "filename": "b-activated#@gamepad-xbox-inputs.aseprite",
+    "frame": { "x": 480, "y": 0, "w": 160, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 128 },
+    "sourceSize": { "w": 160, "h": 128 },
+    "duration": 100
+   },
+   {
+    "filename": "x-idle#@gamepad-xbox-inputs.aseprite",
+    "frame": { "x": 640, "y": 0, "w": 160, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 128 },
+    "sourceSize": { "w": 160, "h": 128 },
+    "duration": 100
+   },
+   {
+    "filename": "x-activated#@gamepad-xbox-inputs.aseprite",
+    "frame": { "x": 800, "y": 0, "w": 160, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 128 },
+    "sourceSize": { "w": 160, "h": 128 },
+    "duration": 100
+   },
+   {
+    "filename": "y-idle#@gamepad-xbox-inputs.aseprite",
+    "frame": { "x": 0, "y": 128, "w": 160, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 128 },
+    "sourceSize": { "w": 160, "h": 128 },
+    "duration": 100
+   },
+   {
+    "filename": "y-activated#@gamepad-xbox-inputs.aseprite",
+    "frame": { "x": 160, "y": 128, "w": 160, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 128 },
+    "sourceSize": { "w": 160, "h": 128 },
+    "duration": 100
+   },
+   {
+    "filename": "lb-idle#@gamepad-xbox-inputs.aseprite",
+    "frame": { "x": 320, "y": 128, "w": 160, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 128 },
+    "sourceSize": { "w": 160, "h": 128 },
+    "duration": 100
+   },
+   {
+    "filename": "lb-activated#@gamepad-xbox-inputs.aseprite",
+    "frame": { "x": 480, "y": 128, "w": 160, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 128 },
+    "sourceSize": { "w": 160, "h": 128 },
+    "duration": 100
+   },
+   {
+    "filename": "rb-idle#@gamepad-xbox-inputs.aseprite",
+    "frame": { "x": 640, "y": 128, "w": 160, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 128 },
+    "sourceSize": { "w": 160, "h": 128 },
+    "duration": 100
+   },
+   {
+    "filename": "rb-activated#@gamepad-xbox-inputs.aseprite",
+    "frame": { "x": 800, "y": 128, "w": 160, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 128 },
+    "sourceSize": { "w": 160, "h": 128 },
+    "duration": 100
+   },
+   {
+    "filename": "lt-idle#@gamepad-xbox-inputs.aseprite",
+    "frame": { "x": 0, "y": 256, "w": 160, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 128 },
+    "sourceSize": { "w": 160, "h": 128 },
+    "duration": 100
+   },
+   {
+    "filename": "lt-activated#@gamepad-xbox-inputs.aseprite",
+    "frame": { "x": 160, "y": 256, "w": 160, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 128 },
+    "sourceSize": { "w": 160, "h": 128 },
+    "duration": 100
+   },
+   {
+    "filename": "rt-idle#@gamepad-xbox-inputs.aseprite",
+    "frame": { "x": 320, "y": 256, "w": 160, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 128 },
+    "sourceSize": { "w": 160, "h": 128 },
+    "duration": 100
+   },
+   {
+    "filename": "rt-activated#@gamepad-xbox-inputs.aseprite",
+    "frame": { "x": 480, "y": 256, "w": 160, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 128 },
+    "sourceSize": { "w": 160, "h": 128 },
+    "duration": 100
+   },
+   {
+    "filename": "back-idle#@gamepad-xbox-inputs.aseprite",
+    "frame": { "x": 640, "y": 256, "w": 160, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 128 },
+    "sourceSize": { "w": 160, "h": 128 },
+    "duration": 100
+   },
+   {
+    "filename": "back-activated#@gamepad-xbox-inputs.aseprite",
+    "frame": { "x": 800, "y": 256, "w": 160, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 128 },
+    "sourceSize": { "w": 160, "h": 128 },
+    "duration": 100
+   },
+   {
+    "filename": "start-idle#@gamepad-xbox-inputs.aseprite",
+    "frame": { "x": 0, "y": 384, "w": 160, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 128 },
+    "sourceSize": { "w": 160, "h": 128 },
+    "duration": 100
+   },
+   {
+    "filename": "start-activated#@gamepad-xbox-inputs.aseprite",
+    "frame": { "x": 160, "y": 384, "w": 160, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 128 },
+    "sourceSize": { "w": 160, "h": 128 },
+    "duration": 100
+   },
+   {
+    "filename": "lsb-idle#@gamepad-xbox-inputs.aseprite",
+    "frame": { "x": 320, "y": 384, "w": 160, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 128 },
+    "sourceSize": { "w": 160, "h": 128 },
+    "duration": 100
+   },
+   {
+    "filename": "lsb-activated#@gamepad-xbox-inputs.aseprite",
+    "frame": { "x": 480, "y": 384, "w": 160, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 128 },
+    "sourceSize": { "w": 160, "h": 128 },
+    "duration": 100
+   },
+   {
+    "filename": "rsb-idle#@gamepad-xbox-inputs.aseprite",
+    "frame": { "x": 640, "y": 384, "w": 160, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 128 },
+    "sourceSize": { "w": 160, "h": 128 },
+    "duration": 100
+   },
+   {
+    "filename": "rsb-activated#@gamepad-xbox-inputs.aseprite",
+    "frame": { "x": 800, "y": 384, "w": 160, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 128 },
+    "sourceSize": { "w": 160, "h": 128 },
+    "duration": 100
+   },
+   {
+    "filename": "up-idle#@gamepad-xbox-inputs.aseprite",
+    "frame": { "x": 0, "y": 512, "w": 160, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 128 },
+    "sourceSize": { "w": 160, "h": 128 },
+    "duration": 100
+   },
+   {
+    "filename": "up-activated#@gamepad-xbox-inputs.aseprite",
+    "frame": { "x": 160, "y": 512, "w": 160, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 128 },
+    "sourceSize": { "w": 160, "h": 128 },
+    "duration": 100
+   },
+   {
+    "filename": "right-idle#@gamepad-xbox-inputs.aseprite",
+    "frame": { "x": 320, "y": 512, "w": 160, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 128 },
+    "sourceSize": { "w": 160, "h": 128 },
+    "duration": 100
+   },
+   {
+    "filename": "right-activated#@gamepad-xbox-inputs.aseprite",
+    "frame": { "x": 480, "y": 512, "w": 160, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 128 },
+    "sourceSize": { "w": 160, "h": 128 },
+    "duration": 100
+   },
+   {
+    "filename": "down-idle#@gamepad-xbox-inputs.aseprite",
+    "frame": { "x": 640, "y": 512, "w": 160, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 128 },
+    "sourceSize": { "w": 160, "h": 128 },
+    "duration": 100
+   },
+   {
+    "filename": "down-activated#@gamepad-xbox-inputs.aseprite",
+    "frame": { "x": 800, "y": 512, "w": 160, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 128 },
+    "sourceSize": { "w": 160, "h": 128 },
+    "duration": 100
+   },
+   {
+    "filename": "left-idle#@gamepad-xbox-inputs.aseprite",
+    "frame": { "x": 0, "y": 640, "w": 160, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 128 },
+    "sourceSize": { "w": 160, "h": 128 },
+    "duration": 100
+   },
+   {
+    "filename": "left-activated#@gamepad-xbox-inputs.aseprite",
+    "frame": { "x": 160, "y": 640, "w": 160, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 128 },
+    "sourceSize": { "w": 160, "h": 128 },
+    "duration": 100
+   },
+   {
+    "filename": "xbox-idle#@gamepad-xbox-inputs.aseprite",
+    "frame": { "x": 320, "y": 640, "w": 160, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 128 },
+    "sourceSize": { "w": 160, "h": 128 },
+    "duration": 100
+   },
+   {
+    "filename": "xbox-activated#@gamepad-xbox-inputs.aseprite",
+    "frame": { "x": 480, "y": 640, "w": 160, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 128 },
+    "sourceSize": { "w": 160, "h": 128 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.9-x64",
+  "image": "gamepad-xbox-inputs.png",
+  "format": "RGBA8888",
+  "size": { "w": 1024, "h": 1024 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "a-idle", "from": 0, "to": 0, "direction": "forward" },
+   { "name": "a-activated", "from": 1, "to": 1, "direction": "forward" },
+   { "name": "b-idle", "from": 2, "to": 2, "direction": "forward" },
+   { "name": "b-activated", "from": 3, "to": 3, "direction": "forward" },
+   { "name": "x-idle", "from": 4, "to": 4, "direction": "forward" },
+   { "name": "x-activated", "from": 5, "to": 5, "direction": "forward" },
+   { "name": "y-idle", "from": 6, "to": 6, "direction": "forward" },
+   { "name": "y-activated", "from": 7, "to": 7, "direction": "forward" },
+   { "name": "lb-idle", "from": 8, "to": 8, "direction": "forward" },
+   { "name": "lb-activated", "from": 9, "to": 9, "direction": "forward" },
+   { "name": "rb-idle", "from": 10, "to": 10, "direction": "forward" },
+   { "name": "rb-activated", "from": 11, "to": 11, "direction": "forward" },
+   { "name": "lt-idle", "from": 12, "to": 12, "direction": "forward" },
+   { "name": "lt-activated", "from": 13, "to": 13, "direction": "forward" },
+   { "name": "rt-idle", "from": 14, "to": 14, "direction": "forward" },
+   { "name": "rt-activated", "from": 15, "to": 15, "direction": "forward" },
+   { "name": "back-idle", "from": 16, "to": 16, "direction": "forward" },
+   { "name": "back-activated", "from": 17, "to": 17, "direction": "forward" },
+   { "name": "start-idle", "from": 18, "to": 18, "direction": "forward" },
+   { "name": "start-activated", "from": 19, "to": 19, "direction": "forward" },
+   { "name": "lsb-idle", "from": 20, "to": 20, "direction": "forward" },
+   { "name": "lsb-activated", "from": 21, "to": 21, "direction": "forward" },
+   { "name": "rsb-idle", "from": 22, "to": 22, "direction": "forward" },
+   { "name": "rsb-activated", "from": 23, "to": 23, "direction": "forward" },
+   { "name": "up-idle", "from": 24, "to": 24, "direction": "forward" },
+   { "name": "up-activated", "from": 25, "to": 25, "direction": "forward" },
+   { "name": "right-idle", "from": 26, "to": 26, "direction": "forward" },
+   { "name": "right-activated", "from": 27, "to": 27, "direction": "forward" },
+   { "name": "down-idle", "from": 28, "to": 28, "direction": "forward" },
+   { "name": "down-activated", "from": 29, "to": 29, "direction": "forward" },
+   { "name": "left-idle", "from": 30, "to": 30, "direction": "forward" },
+   { "name": "left-activated", "from": 31, "to": 31, "direction": "forward" },
+   { "name": "xbox-idle", "from": 32, "to": 32, "direction": "forward" },
+   { "name": "xbox-activated", "from": 33, "to": 33, "direction": "forward" }
+  ]
+ }
+}

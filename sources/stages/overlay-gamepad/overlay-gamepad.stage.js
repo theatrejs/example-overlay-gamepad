@@ -3,7 +3,12 @@ import {FACTORIES, Stage} from '@theatrejs/theatrejs';
 import {getColor} from 'states/color.state.js';
 import {getResolution} from 'states/resolution.state.js';
 
-class StageExample extends FACTORIES.StageWithPreloadables([]) {
+import ActorOverlayGamepad from './actors/overlay-gamepad/overlay-gamepad.actor.js';
+
+class StageOverlayGamepad extends FACTORIES.StageWithPreloadables([
+
+    ActorOverlayGamepad
+]) {
 
     /**
      * @type {Stage['onCreate']}
@@ -12,7 +17,9 @@ class StageExample extends FACTORIES.StageWithPreloadables([]) {
 
         this.engine.setColor(getColor());
         this.engine.setResolution(getResolution());
+
+        this.createActor(ActorOverlayGamepad);
     }
 }
 
-export default StageExample;
+export default StageOverlayGamepad;

@@ -5,7 +5,7 @@ import {State, Vector3} from '@theatrejs/theatrejs';
  * @type {State<Vector3>}
  * @constant
  */
-const stateColor = new State(new Vector3(0 / 255, 0 / 255, 0 / 255));
+const stateColor = new State(new Vector3(34 / 255, 32 / 255, 52 / 255));
 
 /**
  * Gets the color.

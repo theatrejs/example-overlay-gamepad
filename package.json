@@ -9,9 +9,9 @@
     "description": "🎮 A Gamepad Overlay example.",
     "devDependencies": {
 
-        "@theatrejs/loader-aseprite": "1.5.0",
+        "@theatrejs/loader-aseprite": "1.6.0",
         "@theatrejs/loader-ldtk": "1.1.0",
-        "@theatrejs/loader-reaper": "1.1.0",
+        "@theatrejs/loader-reaper": "1.2.0",
         "dotenv": "16.4.5",
         "electron": "28.2.2",
         "electron-packager": "17.1.2",

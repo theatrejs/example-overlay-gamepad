@@ -12,19 +12,6 @@ Clone the repository:
 git clone https://github.com/theatrejs/example-overlay-gamepad.git
 ```
 
-Create the `.env` file from the `.env.example` file:
-
-```shell
-cp .env.example .env
-```
-
-Update the `.env` file with your Aseprite executable path, for instance:
-
-```
-ASEPRITE=C:\Program Files\Aseprite\Aseprite.exe
-REAPER=C:\Program Files\REAPER (x64)\reaper.exe
-```
-
 Intall the dependencies:
 
 ```shell
@@ -35,4 +22,19 @@ npm install
 
 ```shell
 npm start
+```
+
+## Edition
+
+Create the `.env` file from the `.env.example` file:
+
+```shell
+cp .env.example .env
+```
+
+Update the `.env` file with your Aseprite and Reaper executable paths, for instance:
+
+```
+ASEPRITE=C:\Program Files\Aseprite\Aseprite.exe
+REAPER=C:\Program Files\REAPER (x64)\reaper.exe
 ```

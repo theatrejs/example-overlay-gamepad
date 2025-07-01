@@ -1,11 +1,11 @@
 import {Engine, ExtensionGamepad} from '@theatrejs/theatrejs';
 
-import StageExample from 'stages/overlay-gamepad/overlay-gamepad.stage.js';
+import {getStage} from 'states/stage.state.js';
 
 ExtensionGamepad.activate();
 
 const engine = new Engine();
 engine.initiate(25);
 
-await engine.preloadStage(StageExample);
-engine.createStage(StageExample);
+await engine.preloadStage(getStage());
+engine.createStage(getStage());

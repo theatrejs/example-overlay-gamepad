@@ -1,13 +1,13 @@
 import {Stage, State} from '@theatrejs/theatrejs';
 
-import StageExample from 'stages/example/example.stage.js';
+import StageOverlayGamepad from 'stages/overlay-gamepad/overlay-gamepad.stage.js';
 
 /**
  * The state manager of the stage.
  * @type {State<typeof Stage>}
  * @constant
  */
-const stateStage = new State(StageExample);
+const stateStage = new State(StageOverlayGamepad);
 
 /**
  * Gets the stage.
